@@ -4,7 +4,7 @@ public class HelloWorld2 {
 
 	// TODO Auto-generated method stub #41
 		System.out.println("Hello World!");
-		System.out.println("Hello World5!")
+		System.out.println("Hello World3!")
 	}
 
 }
