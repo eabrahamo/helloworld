@@ -5,6 +5,7 @@ public class HelloWorld {
 	// TODO Auto-generated method stub #41
 		System.out.println("Hello World13!");
 		System.out.println("New Line!");
+		System.out.println("New Line2!");
 	}
 
 }
